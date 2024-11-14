@@ -1,4 +1,4 @@
-#  Connect 4
+#   <img src="logo.ico" alt="Connect 4 Icon" width="85" height="45"> Connect 4
 
 **Connect 4** is a classic two-player game developed using **SFML** and **C++**. This modern version adds a fresh twist to the traditional game, featuring a stylish blue game board, **red and yellow balls** for players, and immersive background music. Players take turns aiming to connect four in a row — vertically, horizontally, or diagonally — to win the game. The interface includes **pause/resume**, **mute/unmute**, and **help** options, along with win/draw detection, making for a smooth and engaging PvP experience.This project brings the classic Connect 4 game to life with C++ and SFML.
 
