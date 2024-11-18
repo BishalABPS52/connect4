@@ -15,9 +15,9 @@
 ## 🎨 Colors
 - **Background**: Pure black for immersive gameplay.
 - **Buttons**: 
-  - Green for "New Game" and "Restart"
-  - Red for "Exit" 
-  - Yellow and Red for win messages
+  - Green for "New Game" and "Restart".
+  - Red for "Exit" .
+  - Yellow and Red for win messages.
 
 ## 🖼️ Visuals
 - **Beautiful Background Picture**: Enhances the overall gaming experience and visual appeal.
